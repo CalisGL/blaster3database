@@ -202,4 +202,3 @@ root.grid_columnconfigure(0, weight=1)
 icon_path = "icon.ico"  # Remplacez ceci par le chemin de votre icône
 root.iconbitmap(default=icon_path)
 root.mainloop()
-
